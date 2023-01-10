@@ -1,0 +1,336 @@
+[
+    {
+        "id": 1,
+        "name": "Xanita 500mg (6pcs)",
+        "company":"Renata Limited.",
+        "type":"Tablet",
+        "price": 50,
+        "details": "Nitazoxanide is indicated for the treatment of diarrhea caused by Cryptosporidium parvum, Giardia lamblia and Entamoeba histolytica.",
+        "dosages": "Age 1-3 years: 1 tea-spoonfull or 5 ml suspension every 12 hours for 3 days. Age 4-11 years: 2 tea-spoonfulls or 10 ml suspension every 12 hours for 3 days.Age 12 years or above: 5 tea-spoonfulls (25 ml) suspension or 1 tablet every 12 hours for 3 days.",
+        "img": "https://i.ibb.co/D8VqpXT/p1.png"
+    },
+    {
+        "id": 2,
+        "name": "Neosaline Box(50pcs)",
+        "company":"Eskayef Bangladesh.",
+        "type":"Sachet",
+        "price": 275,
+        "details": "Oral Rehydration Salt is indicated in Diarrhea (treatment) and Electrolyte depletion (prophylaxis and treatment)",
+        "dosages": "Children less than 2 years: After each loose stool or vomiting 10 to 20 spoonful (50-100 ml). Children 2 to 10 years: After each loose stool or vomiting 100-200 ml of prepared oral saline.",
+        "img": "https://i.ibb.co/ZKCtgyf/p2.png"
+    },
+    {
+        "id": 3,
+        "name": "Enterogermina Oral Suspension",
+        "company":"Sanofi Bangladesh Ltd.",
+        "type":"Suspension",
+        "price": 50,
+        "details": "This medication is a probiotic agent used to treat children's diarrhea. It boosts children's immunity and improves their intestinal health. It is also effective in the treatment of chronic diarrhea in adults. Bacillus Clausii, found in Enterogermina, aids in the maintenance and restoration of intestinal bacterial flora. It also aids in the treatment of hypovitaminosis, a condition characterized by an imbalance in vitamin production or absorption in the body.",
+        "dosages": "Adults: 2 to 3 mini bottles per day. Children: 1–2 mini bottles per day. Infants: 1 to 2 mini bottles per day",
+        "img": "https://i.ibb.co/whMG58N/p3.png"
+    },
+    {
+        "id": 4,
+        "name": "Becospray Nasal Spray",
+        "company":"Square",
+        "type":"Spray",
+        "price": 135,
+        "details": "Sinusitis, Hay fever, Allergic and non-allergic rhinitis, Nasal Polyps (Postsurgical Prophylaxis), Vasomotor Rhinitis",
+        "dosages": "Adults: The usual dosage is 1-2 inhalations in each nostril twice a day . Children 12 Years of Age and Older: The usual dosage is 1-2 inhalations in each nostril twice a day . Children 6 to 12 Years of Age: Patients should be started with 1 inhalation in each nostril twice a day; patients with more severe symptoms may use 2 inhalations in each nostril. <6 years: Safety and efficacy not established",
+        "img": "https://i.ibb.co/Lh0VrBZ/p4.png"
+    },
+    {
+        "id": 5,
+        "name": "Avaspray Nasal Spray",
+        "company":"Square",
+        "type":"Spray",
+        "price": 252,
+        "details": "Avaspray 120 Nasal Spray is approved for the treatment of seasonal and perennial allergic rhinitis symptoms in patients aged 2 years and older.Fluticasone Furoate inhalation powder is approved for once-daily maintenance treatment of asthma in patients aged 5 years and older. This is not intended to treat acute bronchospasm.",
+        "dosages": "Adults and adolescents 12 years of age and older should use two sprays in each nostril once daily. The recommended starting dosage for patients aged 2 to 12 years old is one spray in each nostril once daily. Patients who do not respond adequately to one spray in each nostril once daily may receive two sprays in each nostril once daily. Once symptoms are under control, a dose reduction to one spray in each nostril once daily is recommended.",
+        "img": "https://i.ibb.co/QpVv0rj/p5.png"
+    },
+    {
+        "id": 6,
+        "name": "Vastarel MR 35mg (box) 60pcs",
+        "company":"Eskayef Bangladesh Ltd.",
+        "type":"Tablet",
+        "price": 500,
+        "details": "Long-term treatment of Ischaemic heart disease (angina pectoris, sequelae of infarction).",
+        "dosages": "One 20 mg tablet thrice daily after meals. No dosage adjustments are required in patients with impaired renal and hepatic function.",
+        "img": "https://i.ibb.co/QY8jC8r/p6.png"
+    },
+    {
+        "id": 7,
+        "name": "Entrovas 50 (10pcs)",
+        "company":"Renata Limited",
+        "type":"Tablet",
+        "price": 410,
+        "details": "Entrovas 50 is a combination medicine used to treat heart failure. It reduces the risk of hospitalization and death due to long-lasting (chronic) heart failure. Entrovas 50 can be taken with or without food but is best taken at the same time(s) each day. Swallow it as a whole with water. Your dose, and how often you take it, will be decided by your doctor and may change depending on how well you respond to the medicine. Keep taking the tablets regularly, as they have been prescribed, and try not to miss doses to get the most benefit.",
+        "dosages": "Heart Failure Indicated to reduce the risk of cardiovascular death and hospitalization for heart failure (HF) in patients with chronic heart failure (CHF) (NYHA class II-IV) and reduced ejection fraction Recommended starting dose: 49 mg/51 mg PO BID Target maintenance dose: After 2-4 weeks, double the dose to the target maintenance dose of 97 mg/103 mg PO BID as tolerated Hepatic impairment Mild (Child-Pugh A): No starting dose adjustment required Moderate (Child-Pugh B): Reduce starting dose to 24 mg/26 mg BID; double the dose every 2-4 weeks to target maintenance dose of 97 mg/103 mg BID as tolerated Severe (Child-Pugh C): Not recommended",
+        "img": "https://i.ibb.co/JKHvXx7/p7.png"
+    },
+    {
+        "id": 8,
+        "name": "Inophos 400mg 4pcs",
+        "company":"Incepta Pharmaceuticals Ltd.",
+        "type":"Tablet",
+        "price": 274,
+        "details": "Patients not taking a Phosphate Binder: The recommended starting dose of Sevelamer is 800 to 1600 mg, which can be administered as two to four 400 mg Sevelamer tablets, with meals based on serum phosphorus level.",
+        "dosages": "Calcium Acetate 667 mg (1 tablet): Sevelamer 800 mg (2 tablets). Calcium Acetate 1334 mg (2 tablets): Sevelamer 1200 mg (3 tablets). Calcium Acetate 2001 mg (3 tablets): Sevelamer 2000 mg (5 tablets)",
+        "img": "https://i.ibb.co/yy0VyGJ/p8.png"
+    },
+    {
+        "id": 9,
+        "name": "Voltalin SR 100mg 10pcs",
+        "company":"Novartis (Bangladesh) Ltd.",
+        "type":"Tablet",
+        "price": 170,
+        "details": "Chronic involutive rheumatism, polyarthritis, ankylosing spondylarthritis, osteoarthritis, spondylarthritis, acute gout, and peri-articular rheumatic diseases are all inflammatory and degenerative forms of rheumatism.",
+        "dosages": "Serum Phosphorus >5.5 and <7.5 mg/dL: 800 mg (2 tablets) three times daily with meals. Serum Phosphorus ≥7.5 and <9.0 mg/dL: 1200 mg (3 tablets) three times daily with meals. Serum Phosphorus ≥9.0 mg/dL: 1600 mg (4 tablets) three times daily with meals",
+        "img": "https://i.ibb.co/F5Jh6rY/p9.png"
+    },
+    {
+        "id": 10,
+        "name": "Maxpro Mups 20mg 14pcs",
+        "company":"Renata Limited",
+        "type":"Tablet",
+        "price": 130,
+        "details": "Maxpro Mups 20 is a medication that lessens the quantity of acid your stomach produces. Heartburn, acid reflux, and issues with your food pipe are all treated with it. Stomach ulcers can also be prevented and treated with them. Maxpro Mups 20 should be taken as prescribed by your doctor.",
+        "dosages": "Adult (≥18 years): 40 mg once daily for 4 weeks. Children & adolescents (12-18 years): 40 mg once daily for 4 weeks. Adult (≥18 years): 20 mg once daily.",
+        "img": "https://i.ibb.co/T0jVkdn/p10.png"
+    },
+    {
+        "id": 11,
+        "name": "Citivas Caplet (10pcs Box)",
+        "company":"Square Pharmaceuticals Ltd.",
+        "type":"Capsule",
+        "price": 460,
+        "details": "A medication called Citivas Caplet is used to treat stroke, head trauma, Alzheimer's disease, and dementia in Parkinson's patients. It assists in both the repair of damaged nerve cells as well as the protection of the brain's nerve cells from harm. As a result, it enhances memory and learning.",
+        "dosages": "Ischemic strokes should receive immediate treatment with 500–2000 mg of citicoline per day, starting within 24 hours of the stroke. 1000–2000 mg of citicoline per day for stroke-related cognitive decline. Chronic cerebrovascular disease: For the ongoing disease of the blood vessels that supply the brain, take 1000 mg daily in divided doses with or between meals.",
+        "img": "https://i.ibb.co/Sx56tws/p11.png"
+    },
+    {
+        "id": 12,
+        "name": "Vinton 5",
+        "company":"Aristopharma Limited",
+        "type":"Tablet",
+        "price": 300,
+        "details": "All forms of acute and chronic cerebral circulatory insufficiency: TIA (Transient Ischaemic Attack), reversible ischaemic neurological deficiency, progressive stroke, completed stroke, post-apoplectic conditions, multiinfarct dementia, cerebral arteriosclerosis, post-traumatic, hypertensive encephalopathy etc.",
+        "dosages": "Vinpocetine is taken 15-30 mg daily in 3 divided doses with meals. The maintenance dose is 15 mg three times daily over long periods.",
+        "img": "https://i.ibb.co/f1Ts5rC/p12.png"
+    },
+    // baby 
+    {
+        "id": 13,
+        "name": "NeoCare Baby Diaper S 3-6kg XL 50pcs",
+        "company":"Incepta Pharmaceuticals Ltd.",
+        "type":"Diaper",
+        "price": 900,
+        "details": " Ultra XXL 34pcs in one pack.",
+        "dosages": "Uses under 5 years old baby.",
+        "img": "https://i.ibb.co/2tFL82C/p13.png"
+    },
+    {
+        "id": 14,
+        "name": "Molfix Jumbo Midi 4-9 Kg",
+        "company":"Molfix",
+        "type":"Diaper",
+        "price": 1742,
+        "details": "Midium size , 68 pcs in one pack.",
+        "dosages": "Uses under 3 years old baby.",
+        "img": "https://i.ibb.co/93J0vcm/p14.png"
+    },
+    {
+        "id": 15,
+        "name": "Deelac Infant Formula 2 (from 6 Months) Tin",
+        "company":"Deelac",
+        "type":"Powder",
+        "price": 480,
+        "details": "400 gram. Infant formula",
+        "dosages": "Uses under 3 years old baby.",
+        "img": "https://i.ibb.co/4FrqMSd/p15.png"
+    },
+    {
+        "id": 16,
+        "name": "Nido 3 Plus 400gr",
+        "company":"Nestle",
+        "type":"Milk",
+        "price": 900,
+        "details": "NESTLÉ® NIDO® 3+ is a powdered milk beverage with 12 vitamins and minerals to help support your child’s healthy growth and activity in the preschool years. NIDO® 3+ helps support brain development with iron. NIDO® 3+ also contains Prebio3®, an exclusive blend of fiber. Fiber helps to maintain a healthy digestive system.",
+        "dosages": "Uses under 3 years old baby.",
+        "img": "https://i.ibb.co/8DW4shb/p16.png"
+    },
+    {
+        "id": 17,
+        "name": "Lactogen 2 Packet 1300gm",
+        "company":"Nestle",
+        "type":"Milk",
+        "price": 2000,
+        "details": "Lactogen 2 Packet 1300gm",
+        "dosages": "Uses under 3 years old baby.",
+        "img": "https://i.ibb.co/zXSMhfQ/p17.png"
+    },
+    {
+        "id": 18,
+        "name": "Protinex Mama Essential Nutrition",
+        "company":"Protinex",
+        "type":"Powder",
+        "price": 2300,
+        "details": "Protinex Original is a ready to serve beverage mix that helps meet the nutrient requirements of Indian Adults. Protinex Original contains 17 essential vitamins and minerals including 8 immuno nutrients³; that support immunity, build strength, and provide energy. Made with a unique hydrolyzed protein formulation, which is easy to digest and helps in 50% faster absorption of Protein⁵. Protinex consists of nutrients that help in building bone strength, growth & maintenance of muscle mass, metabolism & formation of blood cells**. Protinex Original easily makes its place in your everyday diet plan, and it is suitable for daily consumption. It can be taken with milk or water.",
+        "dosages": "Essential Nutrition during Pregnancy & Lactation. 100 percent vegetarian source.Available in Delicious Flavours - creamy VANILLA and exquisite CHOCOLATE.",
+        "img": "https://i.ibb.co/TL4gW7g/p18.png"
+    },
+    //  Sexual Wellbeing
+    {
+        "id": 19,
+        "name": "Xtreme Ultra Thin Condom 1 Packet",
+        "company":"SMC Enterprise Limited",
+        "type":"Condom",
+        "price": 35,
+        "details": "Ultra Thin textured allows skin-to-skin friction. Lily flavor sets a pleasurable ambiance. Xtreme Ultra Thin Premium Condom. Natural rubber latex condom with an appealing smell that is ultra-thin, smooth, parallel, and teat terminated. Ultra Thin condoms are extremely thin but extremely safe. You'll be able to enjoy yourself to the fullest without having to worry about anything. Xtreme condoms are made for extreme pleasure and dependability. Each Xtreme condom is electrically tested and made of superior-quality natural rubber latex to ensure maximum protection and safety. Xtreme condoms will assist to lower the chance of HIV (AIDS) and other sexually transmitted infections being transferred (STDs). Ensures more pleasure as Ultra Thin texture gives the real feeling of sex. The Lily flavor tends to create a pleasant aroma during the time of intercourse ",
+        "dosages": "Not applicable",
+        "img": "https://i.ibb.co/bbHxfwf/p19.png"
+    },
+    {
+        "id": 20,
+        "name": "Intimate 10mg 5pcs",
+        "company":"Square Pharmaceuticals Ltd.",
+        "type":"Tablet",
+        "price": 160,
+        "details": "Intimate 10 is a male erectile dysfunction medication. It increases blood flow to the penis, assisting men in obtaining an erection. It works by relaxing the blood vessels in your penis, allowing blood to flow into your penis when sexually stimulated. Intimate 10 can be consumed on an empty stomach or with food. It should be taken exactly as prescribed by your doctor.",
+        "dosages": "Usage of nitrates, nitrate donors, and organic nitrates simultaneously Sexual activity is not advised for men with cardiac problems. A recent MI (within 90 days) or stroke (within the previous 6 months), hypotension (90/50 mm Hg), unstable angina, heart failure, uncontrolled arrhythmias, or hypertension are all indications of recent MI.",
+        "img": "https://i.ibb.co/ysZB7dZ/p20.png"
+    },
+    {
+        "id": 21,
+        "name": "Edysta 5mg 10pcs",
+        "company":"",
+        "type":"Tablet",
+        "price": 165,
+        "details": "Edysta 5 is prescribed to males who have erectile dysfunction. It facilitates men obtaining an erection by increasing blood flow to the penis. It functions by assisting in the relaxation of the blood vessels in your penis, allowing blood to flow into your penis during arousal. Both an empty stomach and a meal are acceptable times to take Edysta 5. It must be taken exactly as your doctor has prescribed. Only when you are sexually stimulated can the medication assist you in achieving an erection. You ought to take it around an hour before your planned sexual activity. Work requires different amounts of time depending on the individual but often takes between 30 and an hour. Take it only if you need it and a doctor has recommended it for you.",
+        "dosages": "For Once Daily Use The recommended starting dose of Tadalafil for once daily use is 2.5 mg, taken at approximately the same time every day, without regard to the timing of sexual activity. The intimate dose for once-daily use may be increased to 5 mg,",
+        "img": "https://i.ibb.co/NspTtCS/p21.png"
+    },
+    // women care
+    {
+        "id": 22,
+        "name": "ABCDerm Cold-Cream Corps (200 ml)",
+	    "company":"Bioderma",
+        "type":"Cream",
+        "price": 2230,
+        "details": "ABCDerm Cold-Cream corps is developed in accordance with the ABCDerm high-safety and high-tolerance formulation charter. This nourishing treatment lastingly reduces sensations of dryness, discomfort and tightness thanks to its creamy, non-greasy texture (oil-in-water emulsion) with apricot kernel oil and beeswax.",
+        "dosages": "Once or twice a day – 7 days a week. Apply on thoroughly dried skin after cleansing with a cleansing product from the ABCDerm range.",
+        "img": "https://i.ibb.co/nzqY80x/p22.png"
+    },
+    {
+        "id": 23,
+        "name": "ABC DERM COLD CREAM VISAGE & CORPS (45 ml)",
+	    "company":"Bioderma",
+        "type":"Cream",
+        "price": 1160,
+        "details": "Information about ABC DERM COLD CREAM VISAGE & CORPS",
+        "dosages": "Once or twice a day – 7 days a week.",
+        "img": "https://i.ibb.co/NYksJ8n/p23.png"
+    },
+    {
+        "id": 24,
+        "name": "ATODERM CREME FP 200ML",
+	    "company":"Bioderma",
+        "type":"Cream",
+        "price": 2230,
+        "details": "Bioderma Atoderm Crème Ultra-Nourishing Cream is a daily cream specially formulated to nourish and comfort normal to dry skin. Suitable for the whole family, this nourishing cream promotes a healthier skin barrier not only strengthening the protective film of the skin but also enhancing the skin protection against daily aggressions. Thanks to the D.A.F and Skin Protect Complex™ patent, this daily cream increases the tolerance threshold of the skin and strengthens the skin resistance. Rich in hydrating and nourishing ingredients this cream can not only protect the skin but also leave it pleasantly soft and supple. Easy to apply this daily cream can, all in all, nourish, protect and comfort the skin being perfect for the daily needs of sensitive skin that is prone to dryness.",
+        "dosages": "Once or twice a day",
+        "img": "https://i.ibb.co/KqnZB6r/p24.png"
+    },
+    {
+        "id": 25,
+        "name": "Photoderm AKN Mat SPF 30 40ml",
+	    "company":"Bioderma",
+        "type":"Cream",
+        "price": 1940,
+        "details": "AKN Mat SPF 30 40ml",
+        "dosages": "Apply evenly and generously before exposure (reducing the amount of product reduces the level of protection).Reapply frequently before and after swimming ,friction or sport.",
+        "img": "https://i.ibb.co/d0qYsRh/p25.png"
+    },
+    {
+        "id": 26,
+        "name": "Sebium Pain Bar (100gm)",
+	    "company":"Bioderma",
+        "type":"Capsule",
+        "price": 1260,
+        "details": "Sebium Pain Bar (100gm)",
+        "dosages": "Apply evenly and generously before exposure (reducing the amount of product reduces the level of protection).Reapply frequently before and after swimming ,friction or sport.",
+        "img": "https://i.ibb.co/Bt7tZqB/p26.png"
+    },
+    {
+        "id": 27,
+        "name": "Bioderma Pigmentbio Night Renewer 50ml",
+	    "company":"Bioderma",
+        "type":"Cream",
+        "price": 2660,
+        "details": "Bioderma Pigmentbio Night Renewer has a unique formula, with antiaging properties, that aims to both prevent and reduce the appearance of hyperpigmentations. It is during night-time, that your skin enters its natural renewal process. As a night cream, this product contains specific ingredients that will boost the natural renewal process of the skin. With Hexapeptide-2, Salicylic Acid, and also Vitamin C it will increase collagen production and enhance cell renewal. In addition, these elements and the presence of LumiReveal™ and Vitamin PP will also help reduce melanin production, improve the elasticity of the skin and promote a healthier skin barrier. With a pleasant watery sleeping mask texture, it is suitable for all skin types including sensitive skin. It will keep your skin hydrated and even out the complexion lending you a plumped, radiant and youthful look in the morning.",
+        "dosages": "Apply evenly and generously before exposure (reducing the amount of product reduces the level of protection).Reapply frequently before and after swimming ,friction or sport",
+        "img": "https://i.ibb.co/Stdfm3S/p27.png"
+    },
+    // personal care
+    {
+        "id": 28,
+        "name": "Bactin Ophthalmic Solution",
+	    "company":"Ibne Sina Pharmaceuticals",
+        "type":"Drops",
+        "price": 30,
+        "details": "Ciprofloxacin 0.3% Eye/Ear Drops is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions listed below: Corneal Ulcers: Pseudomonas aeruginosa, Serratia marcescens, Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pneumoniae. Bacterial Conjunctivitis: Haemophilus influenzae, Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pneumoniae. It is also indicated in the treatment of keratitis, kerato-conjunctivitis, blepharitis, blepharo-conjunctivitis, dacryocistitis, prophylaxis of ocular infections due to Neisseria gonorrhea or Chlamydia trachomatis, prevention of ocular infections after removal of a corneal or physical agent before or after ocular surgery.",
+        "dosages": "Once a day",
+        "img": "https://i.ibb.co/d6THwqQ/p28-prev-ui.png"
+    },
+    {
+        "id": 29,
+        "name": "Optagold Eye Capsule (4Pcs)",
+	    "company":"Popular Pharmaceuticals Ltd.",
+        "type": "Capsule",
+        "price": 36,
+        "details": "This preparation is indicated for Age-related Eye Disease. This is an advanced new antioxidant supplement formulated to provide nutritional support for the eye. The formulation contains essential antioxidant vitamins, minerals, and Lutein.",
+        "dosages": "One capsule, one or two times daily or as directed by the physician.",
+        "img": "https://i.ibb.co/PtWwxCT/p29-prev-ui.png"
+    },
+    {
+        "id": 30,
+        "name": "Bioprem 1 Softgel 1000mcg",
+	    "company":"Square Pharmaceuticals Ltd.",
+        "type":"Softgel",
+        "price": 410,
+        "details": "",
+        "dosages": "Biotin dose varies depending on disease condition and age group. In adults: Generally 1-3 tablets per day or as advised by the physician. In children: biotin deficiency affects between 1 week and 2 years of age and usually exhibits seizures, hypotonia, developmental delay, ataxia, hyperventilation, and coma. In this case, 5-10 tablets daily, crushed and mixed with water or any kind of fruit juice or as advised by the physician. Recommended dietary allowance:",
+        "img": "https://i.ibb.co/ypbKzwp/p30-prev-ui.png"
+    },
+    {
+        "id": 31,
+        "name": "Grandeur Onion Hair Oil For Hair Fall",
+	    "company":"Grandeur",
+        "type":"Oil",
+        "price": 980,
+        "details": "INGREDIENTS: Red Onion Extract, Coconut Oil, Sunflower Oil, Vitamin E, Castor Oil, Argan Oil, Jojoba Oil, Amla Extract, Hibiscus Extract, Neem Oil, Bhringraj Extract, Mango Butter, Shea Butter, Sandalwood Oil, Rose Oil, Isoamyl Laurate.",
+        "dosages": "Two or three times per day",
+        "img": "https://i.ibb.co/qrv7nGK/p31-prev-ui.png"
+    },
+    {
+        "id": 32,
+        "name": "Biotin DS Shampoo 300ml",
+	    "company":"Derma Healthcare",
+        "type":"Shampoo",
+        "price": 2425,
+        "details": "Organic and natural products are increasingly popular with almost The Global Healing Centre recommends organic tea trees in cases of dandruff and beta glucan for aggravated skin. They say, ‘organic products gently infuse your hair follicles and skin cells with natural minerals, herbal extracts, and oils.",
+        "dosages": "natural products have been used for centuries to treat ailments, and skin conditions and act as cleansers. And, now people want these natural ingredients in their products more and more.",
+        "img": "https://i.ibb.co/vQJQCDT/p32-prev-ui.png"
+    },
+    {
+        "id": 33,
+        "name": "Bioprem 2.5 Softgel 2500mcg",
+	    "company":"Square Pharmaceuticals Ltd.",
+        "type":"Softgel",
+        "price": 680,
+        "details": "Biotin is an essential vitamin that is also known as vitamin H. It is involved in vital physiological function like fatty acid synthesis, amino acid catabolism and gluconeogenesis. It acts as a cofactor in the enzymatic carboxylation of pyruvate and acetyl-CoA. Biotin influences the growth and differentiation of epidermal cells and is therefore important for the formation and renewal of the skin, hair and nails. It functions as a coenzyme for mitochondrial carboxylases in hair roots and improves the keratin structure. Biotin deficiency may result in hair loss and a variety of systemic symptoms such as dermatitis, and aciduria. Biotin is one of the most prescribed nutritional supplements for any kind of hair loss.",
+        "dosages": "Biotin dose varies depending on disease condition and age group. In adults: Generally 1-3 tablets per day or as advised by the physician. In children: biotin deficiency affects between 1 week and 2 years of age and usually exhibits seizures, hypotonia, developmental delay, ataxia, hyperventilation, and coma. In this case, 5-10 tablets daily, crushed and mixed with water or any kind of fruit juice or as advised by the physician.",
+        "img": "https://i.ibb.co/n1YmrW4/p33-prev-ui.png"
+    }
+]
